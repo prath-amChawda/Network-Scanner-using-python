@@ -4,7 +4,7 @@ cyber security project of network scanner using python
 
 A simple network scanner that performs an ARP scan to discover active devices on a network and checks for open ports on each discovered host.
 
-## Features
+## 🚀 Features
 - Scans a given IP range for active devices using ARP requests.
 - Retrieves MAC addresses and hostnames of discovered devices.
 - Scans open ports (1-1024) on each discovered device.
@@ -17,7 +17,7 @@ A simple network scanner that performs an ARP scan to discover active devices on
   - `socket`
   - `concurrent.futures`
   
-You can install dependencies using:
+3️⃣ Install Dependencies
 
 ```sh
 pip install scapy
