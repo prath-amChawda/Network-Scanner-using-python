@@ -1,5 +1,5 @@
-# Network-Scanner-using-python
-cyber security project of network scanner using python
+# Network-Scanner-projects-using-python
+This network scanner project is a tool used to discover and analyze devices on a network. It helps identify connected devices, retrieve their IP and MAC addresses, and check for open ports
 # Network Scanner
 
 A simple network scanner that performs an ARP scan to discover active devices on a network and checks for open ports on each discovered host.
